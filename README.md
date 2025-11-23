@@ -114,3 +114,15 @@ These are the RESTful endpoints for data management:
 | PUT    | /api/events/:id        | Update an existing event (must be the event creator).                    | Yes            |
 | DELETE | /api/events/:id        | Delete an event (must be the event creator).                             | Yes            |
 | GET    | /api/user/my-events    | Get events created only by the authenticated user.                       | Yes            |
+
+
+
+## Screenshots
+
+![App Screenshot 1](https://i.ibb.co/zV0wTr8V/Screenshot-2025-11-23-112906.png)
+
+![App Screenshot 2](https://i.ibb.co/1fH3hJxV/Screenshot-2025-11-23-112942.png)
+
+![App Screenshot 3](https://i.ibb.co/hFDHyjR5/Screenshot-2025-11-23-113000.png)
+
+![App Screenshot 4](https://i.ibb.co/TMWHgLFc/Screenshot-2025-11-23-113023.png)
