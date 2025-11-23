@@ -459,39 +459,31 @@ const upcomingEventsData = [
 
 const eventPackagesData = [
   {
-    name: "Bronze Launch",
+    name: "Friends Party",
     price: "$1,500",
-    time: "Half Day (4hr)",
+    time: "Half Day (8hr)",
     catering: "Basic Appetizers",
     camera: "None",
     details: ["Venue consultation", "Standard A/V setup"],
     baseColor: "from-yellow-900/50 to-gray-800",
   },
   {
-    name: "Silver Celebration",
+    name: "Bechelor Party",
     price: "$4,200",
     time: "Full Day (8hr)",
     catering: "Buffet Style (2 options)",
-    camera: "1 Photographer (4hr)",
-    details: [
-      "Full venue sourcing",
-      "Personalized playlist/DJ",
-      "2 standard services included",
-    ],
+    camera: "1 Photographer (10hr)",
+    details: ["Full venue sourcing", "Personalized playlist/DJ"],
     isFeatured: true,
     baseColor: "from-blue-900/70 to-blue-800/50",
   },
   {
-    name: "Gold Premier",
+    name: "Marriage Day",
     price: "$9,800",
-    time: "Full Day & Night (12hr)",
+    time: "Full Day & Night (24hr)",
     catering: "3-Course Plated Dinner",
-    camera: "2 Photographers + Video (8hr)",
-    details: [
-      "Dedicated Event Planner",
-      "Premium decor package",
-      "Luxury transportation service",
-    ],
+    camera: "2 CameraMan (8hr)",
+    details: ["Dedicated Event Planner", "Premium decor package"],
     baseColor: "from-purple-900/50 to-pink-800/50",
   },
 ];
@@ -722,8 +714,12 @@ const Home = () => {
           </div>
           <p className="text-center text-gray-400 mt-8">
             Need something custom?{" "}
-            <a href="/vendors" className="text-blue-400 hover:underline">
-              Explore our full Vendor Marketplace.
+            <a
+              href="https://github.com/Yeasinoncode98"
+              className="text-blue-400 hover:underline"
+              target="blank"
+            >
+              Conatct With Us
             </a>
           </p>
         </section>
