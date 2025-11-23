@@ -118,7 +118,20 @@ These are the RESTful endpoints for data management:
 
 ## Screenshots
 
-[![Screenshot-2025-11-23-112906.png](https://i.postimg.cc/rprz4Dw8/Screenshot-2025-11-23-112906.png)](https://postimg.cc/3y3K5JG6)  
-[![Screenshot-2025-11-23-112942.png](https://i.postimg.cc/3JN8pkLM/Screenshot-2025-11-23-112942.png)](https://postimg.cc/bsXffwcL)  
-[![Screenshot-2025-11-23-113000.png](https://i.postimg.cc/rmqcpsdR/Screenshot-2025-11-23-113000.png)](https://postimg.cc/DWpRj2P7)  
-[![Screenshot-2025-11-23-113023.png](https://i.postimg.cc/dthF3z11/Screenshot-2025-11-23-113023.png)](https://postimg.cc/JGCvdYjV)  
+## Screenshots
+
+<a href="https://postimg.cc/3y3K5JG6" target="_blank">
+  <img src="https://i.postimg.cc/rprz4Dw8/Screenshot-2025-11-23-112906.png" alt="Screenshot 1" style="width: 100%;"/>
+</a>  
+
+<a href="https://postimg.cc/bsXffwcL" target="_blank">
+  <img src="https://i.postimg.cc/3JN8pkLM/Screenshot-2025-11-23-112942.png" alt="Screenshot 2" style="width: 100%;"/>
+</a>  
+
+<a href="https://postimg.cc/DWpRj2P7" target="_blank">
+  <img src="https://i.postimg.cc/rmqcpsdR/Screenshot-2025-11-23-113000.png" alt="Screenshot 3" style="width: 100%;"/>
+</a>  
+
+<a href="https://postimg.cc/JGCvdYjV" target="_blank">
+  <img src="https://i.postimg.cc/dthF3z11/Screenshot-2025-11-23-113023.png" alt="Screenshot 4" style="width: 100%;"/>
+</a>
