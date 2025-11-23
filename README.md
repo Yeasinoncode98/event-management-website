@@ -118,8 +118,6 @@ These are the RESTful endpoints for data management:
 
 ## Screenshots
 
-## Screenshots
-
 <a href="https://postimg.cc/3y3K5JG6" target="_blank">
   <img src="https://i.postimg.cc/rprz4Dw8/Screenshot-2025-11-23-112906.png" alt="Screenshot 1" style="width: 100%;"/>
 </a>  
