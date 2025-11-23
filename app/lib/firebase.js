@@ -1,0 +1,50 @@
+// // /lib/firebase.js
+
+// import { initializeApp } from "firebase/app";
+// import { getAuth } from "firebase/auth";
+
+// // Firebase configuration
+// const firebaseConfig = {
+//   apiKey: "AIzaSyDG-LjoGE5VW2m3ys-m0PcLjQm4uEY98Ko",
+//   authDomain: "event-development-website.firebaseapp.com",
+//   projectId: "event-development-website",
+//   storageBucket: "event-development-website.appspot.com",
+//   messagingSenderId: "905584670664",
+//   appId: "1:905584670664:web:d865a4d88dbbe46e1272fd",
+// };
+
+// // Initialize Firebase
+// const app = initializeApp(firebaseConfig);
+
+// // Get the authentication instance
+// const auth = getAuth(app);
+
+// // Export the auth instance to be used elsewhere
+// export { auth };
+
+
+
+
+// ................Safetyy 
+
+import { initializeApp } from "firebase/app";
+import { getAuth } from "firebase/auth";
+
+// Firebase configuration using environment variables
+const firebaseConfig = {
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
+// Get the authentication instance
+const auth = getAuth(app);
+
+// Export the auth instance to be used elsewhere
+export { auth };
