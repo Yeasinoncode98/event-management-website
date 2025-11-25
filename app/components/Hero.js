@@ -21,13 +21,16 @@ const Hero = () => {
   const overlayContent = (
     <div className=" relative z-10 text-white text-center py-16">
       <h1 className="text-5xl font-extrabold drop-shadow-lg">
-        Event Management System
+        Your Gateway to Unforgettable Events!
       </h1>
-      <p className="mt-4 text-xl font-medium drop-shadow-lg">
-        Manage and explore events effortlessly.
-      </p>
+      <h2 className="mt-4 text-xl font-medium drop-shadow-lg">
+        Discover, organize, and experience events like never before..
+      </h2>
+      <h3 className="mt-4 text-xl font-medium drop-shadow-lg">
+        Unleash unforgettable events with a click—where every moment counts
+      </h3>
       <button className="mt-8 bg-white text-blue-600 py-3 px-8 rounded-full text-lg font-semibold hover:bg-gray-100 transition duration-300">
-        Get Started
+        Hire Us
       </button>
     </div>
   );

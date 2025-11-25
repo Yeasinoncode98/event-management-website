@@ -32,13 +32,13 @@ const coreFunctionsData = [
   },
   {
     icon: Users,
-    title: "Handle Registrations",
+    title: "International Collaboration",
     description:
       "Track RSVPs, process tickets, and manage guest lists instantly.",
   },
   {
     icon: Trash2,
-    title: "Cancel/Archive",
+    title: "Delete",
     description: "Securely close or archive past events and related data.",
   },
 ];
@@ -259,7 +259,7 @@ const Home = () => {
       <section className="text-center max-w-4xl mx-auto space-y-4 pt-16 pb-20 px-4">
         <div className="p-8 rounded-xl border border-blue-600/50 bg-gradient-to-br from-gray-800/50 to-gray-900/80 shadow-2xl backdrop-blur-md">
           <h1 className="text-5xl font-extrabold tracking-tight text-blue-400">
-            Welcome to Our Event Management System
+            Welcome to Our Website : EventHub 🎉✨
           </h1>
           <p className="text-xl text-gray-300 mt-4">
             Explore events, register, and manage your own events easily. Our
