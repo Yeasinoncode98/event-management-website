@@ -745,9 +745,10 @@ const Home = () => {
               className="flex-grow p-4 rounded-lg border border-gray-600 bg-gray-900/70 text-white placeholder-gray-500 focus:ring-green-500 focus:border-green-500 transition-colors"
               required
             />
+
             <button
               type="submit"
-              className="px-6 py-3 bg-gradient-to-r from-green-500 to-teal-500 text-gray-900 font-bold rounded-lg hover:from-green-600 hover:to-teal-600 transition-all duration-300 flex-shrink-0 shadow-lg"
+              className="px-6 py-3 bg-gradient-to-r from-green-500 to-teal-500 text-gray-900 font-bold rounded-lg hover:from-green-600 hover:to-teal-600 transition-all duration-300 flex-shrink-0 shadow-lg "
             >
               Subscribe Now
             </button>
