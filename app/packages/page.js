@@ -410,10 +410,9 @@ const packagesData = {
       {
         id: 1,
         name: "Sarah Johnson",
-        role: "Lead Event Planner",
-        image:
-          "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
-        experience: "10+ years",
+        role: "Head - Event Planner",
+        image: "https://i.postimg.cc/qB5S7TCc/pexels-olly-3756679.jpg",
+        experience: "15+ years",
         specialization: "Weddings & Corporate Events",
         email: "sarah@events.com",
         phone: "+1 (555) 123-4567",
@@ -421,10 +420,10 @@ const packagesData = {
       {
         id: 2,
         name: "Michael Chen",
-        role: "Creative Director",
+        role: "Lead - Event Director",
         image:
-          "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
-        experience: "8+ years",
+          "https://i.postimg.cc/NMgqRkgG/pexels-marta-klement-636760-1438081.jpg",
+        experience: "12+ years",
         specialization: "Luxury Events & Fashion Shows",
         email: "michael@events.com",
         phone: "+1 (555) 234-5678",
@@ -434,8 +433,8 @@ const packagesData = {
         name: "Emily Rodriguez",
         role: "Operations Manager",
         image:
-          "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
-        experience: "12+ years",
+          "https://i.postimg.cc/v8CyN9XQ/pexels-ogproductionz-17243573.jpg",
+        experience: "7+ years",
         specialization: "Large-scale Events & Conferences",
         email: "emily@events.com",
         phone: "+1 (555) 345-6789",
@@ -735,9 +734,9 @@ export default function PackagesPage() {
             </button>
 
             {/* UPDATED H2 TITLE WITH GLOW EFFECT */}
-            <h2 className="mt-8 text-3xl font-extrabold text-center italic max-w-4xl mx-auto bg-gradient-to-r from-yellow-300 via-cyan-300 to-purple-300 text-transparent bg-clip-text shadow-lg shadow-cyan-500/50">
-              Work Hard Until You Get Your Victory Only The HardWorker Alives in
-              the Race -Yeasin Arafat
+            <h2 className="mt-10 text-3xl font-extrabold text-center italic max-w-4xl mx-auto bg-gradient-to-r from-yellow-300 via-cyan-300 to-purple-300 text-transparent bg-clip-text shadow-lg shadow-cyan-500/50">
+              "Work Hard Until You Get Your Victory Only The HardWorker Alives
+              in the Race -Yeasin Arafat"
             </h2>
           </div>
         </div>
