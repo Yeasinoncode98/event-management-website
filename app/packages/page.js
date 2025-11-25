@@ -68,7 +68,7 @@ const packagesData = {
           description:
             "Ideal for small graduation parties, offering essential services at a budget-friendly price.",
           image:
-            "https://i.ibb.co.com/7xymX8F9/pexels-emily-ranquist-493228-1205651.jpg",
+            "https://i.postimg.cc/Jn70tmJ3/pexels-emily-ranquist-493228-1205651.jpg",
           included: [
             "Catering for 50 people",
             "Graduation theme decor",
