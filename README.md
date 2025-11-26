@@ -96,8 +96,20 @@ NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSy...`
 
 
 
-`🗺️ Route SummaryNext.js Frontend Routes (App Router)These are the main user-facing pages:RouteDescriptionRequires Auth/Home Page: Landing page with featured events and Swiper carousels.No/eventsEvents List: Browse all events, featuring sort/search functionality.No/events/[id]Event Detail: Detailed view of a specific event.No/loginUser login page.No/registerUser registration page.No/add-eventForm to create a new event.Yes (User)/manage-eventsDashboard to view, edit, or delete the user's created events.Yes (User)
-`
+## 🗺️ Route Summary - Next.js Frontend Routes (App Router)
+
+These are the main user-facing pages:
+
+| Route                    | Description                                               | Requires Auth  |
+|--------------------------|-----------------------------------------------------------|----------------|
+| `/`                      | Home Page: Landing page with featured events and Swiper carousels. | No             |
+| `/events`                | Events List: Browse all events, featuring sort/search functionality. | No             |
+| `/events/[id]`           | Event Detail: Detailed view of a specific event.          | No             |
+| `/login`                 | User login page.                                          | No             |
+| `/register`              | User registration page.                                   | No             |
+| `/add-event`             | Form to create a new event.                               | Yes (User)     |
+| `/manage-events`         | Dashboard to view, edit, or delete the user's created events. | Yes (User)     |
+
 
 
 ## Express.js Backend API Routes
