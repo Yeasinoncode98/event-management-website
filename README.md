@@ -22,7 +22,7 @@ Iconography: High-quality icons provided by React Icons and Lucide React.
 
 ## Bckend Server Link 
 
-``https://github.com/Yeasinoncode98/event-management-server.git``
+https://github.com/Yeasinoncode98/event-management-server.git
 
 ## 💻 Project Stack Summary
 
